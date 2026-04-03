@@ -1,4 +1,4 @@
-# Hi, I'm Asja 👋
+# Asja Brčaninović
 
 I'm a third-year Software Engineering student at the Faculty of Information Technologies, University "Džemal Bijedić" in Mostar. I'm passionate about web development and building things that are both functional and well-designed.
 
