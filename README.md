@@ -56,10 +56,10 @@ Complete UX design project for a Korean cosmetics web shop with integrated ingre
 
 ---
 
-## 📊 GitHub Stats
-
-![Asja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asja-b&show_icons=true&theme=rose_pine&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asja-b&layout=compact&theme=rose_pine&hide_border=true)
+## 📚 Currently Learning
+- .NET / ASP.NET Core
+- Node.js
+- Full stack development
 
 ---
 
