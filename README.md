@@ -1,8 +1,8 @@
 # Asja Brčaninović
 
-**Third-year Software Engineering Student** at the Faculty of Information Technologies, University "Džemal Bijedić" in Mostar. I'm passionate about web development and building things that are both functional and well-designed.
+**Fourth-year Software Engineering Student** at the Faculty of Information Technologies, University "Džemal Bijedić" in Mostar. I'm passionate about web development and building things that are both functional and well-designed.
 
-Currently active in the **GirlTHing Full Stack Development Program**, working on frontend and backend projects in a team environment.
+Currently active in the **GirlTHing Full Stack Development Program** and the **GirlTHing AI Lab**, working on frontend, backend and machine learning projects.
 
 ---
 
